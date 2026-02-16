@@ -9,7 +9,7 @@
 > Orange Pekoe OPA (Orange Pekoe A)** — это крупный, цельный лист.
 
 ##  Open-source подход 
-- Хотите новый вкус - сделайте Issue
+- Хотите новый вкус — [создайте Issue](https://github.com/MorevPro/meetupTea/issues/new)
 - Нашли ошибку - commit в репу, плюс в карму
 - Хотите заказать - [пишите в личку](https://t.me/ivanmorev)
 - Поделиться рецептом, найти единомышленников - [группа Telegram](https://t.me/meetupTea)
