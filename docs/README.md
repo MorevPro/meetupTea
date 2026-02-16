@@ -11,7 +11,8 @@
 ##  Open-source подход 
 - Хотите новый вкус - сделайте Issue
 - Нашли ошибку - commit в репу, плюс в карму
-- Хотите заказать - пишите в телегу @ivanmorev
+- Хотите заказать - [пишите в телегу](https://t.me/ivanmorev)
+- Поделиться рецептом, найти единомышленников- (https://t.me/meetupTea)
 
 ```json
  {
@@ -19,7 +20,7 @@
     "fullName": "Orange Pekoe A",
     "shortName": "OPA"
   },
-  "leafLevel": "large, whole",
+  "leafLevel": ["large, whole"],
   "harvestMethod": "manual",
   "processingType": "handcrafted",
   "originRegion": "Sri Lanka",
