@@ -14,16 +14,22 @@
 - Хотите заказать - пишите в телегу @ivanmorev
 
 ```json
-{
-  "grade": "OPA (Orange Pekoe A)",
+ {
+  "grade": {
+    "fullName": "Orange Pekoe A",
+    "shortName": "OPA"
+  },
   "leafLevel": "large, whole",
   "harvestMethod": "manual",
   "processingType": "handcrafted",
   "originRegion": "Sri Lanka",
-  "composition": "100% black tea",
-  "steepProfile": "thick, dark",
-  "tasteProfile": "rich, no bitterness, dried fruits notes",
-  "aromaProfile": "warm, clean, dust-free"
+  "composition": {
+    "main": "black tea",
+    "percentage": 100,
+    "notes": ["pure leaf",  "no dust", "no broken pieces"]
+  },
+  "tasteProfile": "clean",
+  "aromaProfile": "dried fruits"
 }
 ```
 
