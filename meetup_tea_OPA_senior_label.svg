@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="900" height="600" viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #111111; }
+      .frame { fill: none; stroke: #2a2a2a; stroke-width: 6; }
+      .title { font-family: 'JetBrains Mono', 'Consolas', monospace; font-size: 42px; fill: #ffffff; font-weight: 600; }
+      .mono { font-family: 'JetBrains Mono', 'Consolas', monospace; font-size: 30px; fill: #e6e6e6; }
+      .accent-green { fill: #3ecf8e; font-weight: 600; }
+      .accent-orange { fill: #ff9d2e; }
+      .progress-bg { fill: #2a2a2a; }
+      .progress-fill { fill: #3ecf8e; }
+      .qr { fill: #ffffff; }
+    </style>
+  </defs>
+  <rect width="718.021" height="510.369" rx="24" class="bg" style=""/>
+  <rect x="12" y="12" width="690.481" height="484.829" rx="18" class="frame" style=""/>
+  <text x="60" y="90" class="title" style="white-space: pre;">meetupTea / Senior</text>
+  <text x="60" y="150" class="mono" style="white-space: pre;">$ brew info meetup --tea black</text>
+  <text x="60" y="200" class="mono" style="white-space: pre;">status: <tspan class="accent-green">OK</tspan> • origin: Sri Lanka</text>
+  <text x="60" y="260" class="mono" style="white-space: pre;">{</text>
+  <text x="100" y="300" class="mono" style="white-space: pre;">"brand": "meetupTea",</text>
+  <text x="100" y="340" class="mono" style="white-space: pre;">"variety": "<tspan class="accent-orange">orange pekoe</tspan>",</text>
+  <text x="100" y="380" class="mono" style="white-space: pre;"> </text>
+  <text x="100" y="376" class="mono" style="white-space: pre; font-size: 30px;">"net_weight_g": 50,</text>
+  <text x="102.598" y="415.769" class="mono" style="white-space: pre; font-size: 30px;">"url": "https://t.me/meetupTea"</text>
+  <text x="62.433" y="466.397" class="mono" style="white-space: pre; font-size: 30px;">}</text>
+</svg>
