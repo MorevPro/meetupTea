@@ -8,6 +8,8 @@
 > Без ароматизаторов. Без пыли. Без «синтаксического сахара».
 > Orange Pekoe OPA (Orange Pekoe A)** — это крупный, цельный лист.
 
+![meetupTea OPA Senior Label](./meetup_tea_OPA_senior_label.svg)
+
 ##  Open-source подход 
 - Хотите новый вкус — [создайте Issue](https://github.com/MorevPro/meetupTea/issues/new)
 - Нашли ошибку - commit в репу, плюс в карму
@@ -17,23 +19,7 @@
 ##  Specification
 
 ```json
- {
-  "grade": {
-    "fullName": "Orange Pekoe A",
-    "shortName": "OPA"
-  },
-  "leafLevel": ["large, whole"],
-  "harvestMethod": "manual",
-  "processingType": "handcrafted",
-  "originRegion": "Sri Lanka",
-  "composition": {
-    "main": "black tea",
-    "percentage": 100,
-    "notes": ["pure leaf",  "no dust", "no broken pieces"]
-  },
-  "tasteProfile": "clean",
-  "aromaProfile": "dried fruits"
-}
+{{ import: ../specifications/senior.v0.1.json }}
 ```
 
 ## Offer

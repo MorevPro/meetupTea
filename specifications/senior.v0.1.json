@@ -1,6 +1,7 @@
 {
   "brand": "meetupTea",
   "variety": "orange pekoe",
-  "net_weight_g": 50,
-  "url": "https://t.me/meetupTea"
+  "originRegion": "Sri Lanka",
+  "net_weight_g": 30,
+  "url": "https://morevpro.github.io/meetup-tea/"
 }
