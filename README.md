@@ -8,7 +8,7 @@
 > Без ароматизаторов. Без пыли. Без «синтаксического сахара».
 > Orange Pekoe OPA (Orange Pekoe A)** — это крупный, цельный лист.
 
-![meetupTea OPA Senior Label](./meetup_tea_OPA_senior_label.svg)
+![meetupTea OPA Senior Label](./specifications/senior.v0.1.png)
 
 ##  Open-source подход 
 - Хотите новый вкус — [создайте Issue](https://github.com/MorevPro/meetupTea/issues/new)
@@ -17,10 +17,9 @@
 - Поделиться рецептом, найти единомышленников - [группа Telegram](https://t.me/meetupTea)
 
 ##  Specification
+### 30g 
+[Спецификация](specifications/senior.30.v0.1.json)
 
-```json
-{{ import: ../specifications/senior.v0.1.json }}
-```
 
 ## Offer
 
