@@ -39,3 +39,15 @@
 ## Links
 [Объявление в Avito](https://www.avito.ru/) | [Группа в ТГ](https://t.me/meetupTea)
 ---
+### How to use
+
+`git clone --quiet git@github.com:MorevPro/meetupTea.git
+cat meetupTea/specifications/senior.30.v0.1.json 
+`
+`{
+  "brand": "meetupTea",
+  "variety": "orange pekoe",
+  "originRegion": "Sri Lanka",
+  "net_weight_g": 30,
+  "url": "https://morevpro.github.io/meetup-tea/"
+}%`
